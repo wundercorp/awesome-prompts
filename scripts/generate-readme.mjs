@@ -57,6 +57,7 @@ readmeLines.push('2. Open its `prompt.md` file.');
 readmeLines.push('3. Copy the full prompt.');
 readmeLines.push('4. Paste it into **[builderstudio.dev](https://builderstudio.dev/)** and run it one-shot.');
 readmeLines.push('5. For community-submitted prompts, open the attached demo link to preview what the prompt can create.');
+readmeLines.push('6. We recomment GPT-5.3-Codex when generating these sites.');
 readmeLines.push('');
 readmeLines.push('## Submission rule');
 readmeLines.push('');
