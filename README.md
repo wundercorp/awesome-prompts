@@ -4,8 +4,6 @@
 
 Open-source prompt resources designed to be copied one-shot into **[BuilderStudio](https://builderstudio.dev/)**. BuilderStudio is the primary place where these prompts can be brought to life.
 
-We recommend using GPT 5.3 Codex when using these prompts.
-
 ## Why this repo exists
 
 - Keep high-quality prompts open, reusable, and easy to discover.
@@ -20,6 +18,7 @@ We recommend using GPT 5.3 Codex when using these prompts.
 3. Copy the full prompt.
 4. Paste it into **[builderstudio.dev](https://builderstudio.dev/)** and run it one-shot.
 5. For community-submitted prompts, open the attached demo link to preview what the prompt can create.
+6. We recommend using GPT 5.3 Codex when using these prompts.
 
 ## Submission rule
 
