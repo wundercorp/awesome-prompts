@@ -1,0 +1,16 @@
+{
+  "title": "Prisma Creative Studio",
+  "slug": "prisma-creative-studio",
+  "category": "creative-studios",
+  "summary": "A moody cinematic creative studio landing page prompt with warm cream tones and motion.",
+  "source_file": "PRISMA.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "creative-studios",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

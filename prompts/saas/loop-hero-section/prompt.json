@@ -1,0 +1,16 @@
+{
+  "title": "Loop Hero Section",
+  "slug": "loop-hero-section",
+  "category": "saas",
+  "summary": "A hero section creation prompt suitable for one-shot SaaS and landing page generation.",
+  "source_file": "LOOP.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "saas",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

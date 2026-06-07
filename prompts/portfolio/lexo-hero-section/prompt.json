@@ -1,0 +1,16 @@
+{
+  "title": "Lexo Hero Section",
+  "slug": "lexo-hero-section",
+  "category": "portfolio",
+  "summary": "A highly accurate responsive React hero prompt for a polished marketing presentation.",
+  "source_file": "LEXO.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "portfolio",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

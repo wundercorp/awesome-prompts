@@ -1,0 +1,16 @@
+{
+  "title": "CTA Hero Section",
+  "slug": "cta-hero-section",
+  "category": "components",
+  "summary": "A focused single-page hero section prompt built for React, TypeScript, and Tailwind CSS.",
+  "source_file": "CTA.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "components",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

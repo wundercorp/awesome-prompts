@@ -1,0 +1,16 @@
+{
+  "title": "Cinematic Space Travel",
+  "slug": "cinematic-space-travel",
+  "category": "travel-luxury",
+  "summary": "A cinematic space-travel landing page prompt for immersive premium web experiences.",
+  "source_file": "CINTEMATIC.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "travel-luxury",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

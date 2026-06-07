@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Awesome Prompt Entry",
+  "type": "object",
+  "required": [
+    "title",
+    "slug",
+    "category",
+    "summary",
+    "builderstudio_url",
+    "usage",
+    "tags"
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_file": {
+      "type": "string"
+    },
+    "builderstudio_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "usage": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "demo_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Required for new prompt submissions in pull requests. Optional for default seeded prompts."
+    },
+    "seeded": {
+      "type": "boolean",
+      "description": "True for prompts included in the default seed catalog."
+    }
+  },
+  "additionalProperties": true
+}

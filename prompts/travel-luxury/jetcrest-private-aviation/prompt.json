@@ -1,0 +1,16 @@
+{
+  "title": "JetCrest Private Aviation",
+  "slug": "jetcrest-private-aviation",
+  "category": "travel-luxury",
+  "summary": "An ultra-luxury private jet hero section prompt with high-fidelity premium aesthetics.",
+  "source_file": "JETFLY.MD",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "travel-luxury",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

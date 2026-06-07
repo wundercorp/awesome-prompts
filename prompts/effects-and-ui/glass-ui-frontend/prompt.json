@@ -1,0 +1,16 @@
+{
+  "title": "Glass UI Frontend",
+  "slug": "glass-ui-frontend",
+  "category": "effects-and-ui",
+  "summary": "A polished React frontend prompt built around Tailwind CSS v4 and glass-style motion UI.",
+  "source_file": "GLASS.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "effects-and-ui",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Dark Hero Section",
+  "slug": "dark-hero-section",
+  "category": "saas",
+  "summary": "A premium dark-mode hero section prompt with motion, Lucide icons, and strong landing-page structure.",
+  "source_file": "DARK.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "saas",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

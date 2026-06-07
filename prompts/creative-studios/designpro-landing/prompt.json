@@ -1,0 +1,16 @@
+{
+  "title": "DesignPro Landing Page",
+  "slug": "designpro-landing",
+  "category": "creative-studios",
+  "summary": "A modern high-performance landing page prompt for creative product and studio experiences.",
+  "source_file": "DESIGNPRO.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "creative-studios",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Axion Studio",
+  "slug": "axion-studio",
+  "category": "creative-studios",
+  "summary": "A design agency landing page with shader-driven visuals and a crisp editorial layout.",
+  "source_file": "AXION.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "creative-studios",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

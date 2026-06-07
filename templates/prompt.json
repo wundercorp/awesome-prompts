@@ -1,0 +1,14 @@
+{
+  "title": "Example Prompt Title",
+  "slug": "example-prompt-title",
+  "category": "saas",
+  "summary": "A short explanation of what this prompt builds.",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "demo_url": "https://example.com/demo",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ]
+}

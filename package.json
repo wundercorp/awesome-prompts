@@ -1,0 +1,12 @@
+{
+  "name": "awesome-prompts",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Open-source prompt resources for one-shot BuilderStudio workflows.",
+  "scripts": {
+    "validate": "node scripts/validate-catalog.mjs",
+    "generate:readme": "node scripts/generate-readme.mjs",
+    "build": "npm run validate && npm run generate:readme",
+    "validate:pr": "node scripts/validate-pr-submissions.mjs"
+  }
+}

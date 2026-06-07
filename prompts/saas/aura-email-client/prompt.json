@@ -1,0 +1,16 @@
+{
+  "title": "Aura Email Client",
+  "slug": "aura-email-client",
+  "category": "saas",
+  "summary": "A premium AI-native email client landing page with cinematic video, glass UI, and polished SaaS presentation.",
+  "source_file": "AURA.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "saas",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

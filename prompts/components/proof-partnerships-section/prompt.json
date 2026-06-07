@@ -1,0 +1,16 @@
+{
+  "title": "Proof Partnerships Section",
+  "slug": "proof-partnerships-section",
+  "category": "components",
+  "summary": "A responsive partnerships and metrics section prompt with staggered word animation and marquees.",
+  "source_file": "PROOF.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "components",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

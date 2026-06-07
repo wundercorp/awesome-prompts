@@ -1,0 +1,16 @@
+{
+  "title": "SaaS Project Setup",
+  "slug": "saas-project-setup",
+  "category": "saas",
+  "summary": "A structured SaaS project prompt for building a production-quality landing page and app shell.",
+  "source_file": "SAAS.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "saas",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

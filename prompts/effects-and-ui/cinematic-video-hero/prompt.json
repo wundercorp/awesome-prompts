@@ -1,0 +1,16 @@
+{
+  "title": "Cinematic Video Hero",
+  "slug": "cinematic-video-hero",
+  "category": "effects-and-ui",
+  "summary": "A premium dark hero section prompt centered around a full-screen video experience.",
+  "source_file": "VIDEO.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "effects-and-ui",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}

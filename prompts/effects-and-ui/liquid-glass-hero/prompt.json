@@ -1,0 +1,16 @@
+{
+  "title": "Liquid Glass Hero",
+  "slug": "liquid-glass-hero",
+  "category": "effects-and-ui",
+  "summary": "A cinematic hero section prompt with looping video and liquid-glass UI elements.",
+  "source_file": "LIQUID.md",
+  "builderstudio_url": "https://builderstudio.dev/",
+  "usage": "Copy the contents of prompt.md and paste it into BuilderStudio for a one-shot run.",
+  "tags": [
+    "effects-and-ui",
+    "builderstudio",
+    "one-shot",
+    "prompt"
+  ],
+  "seeded": true
+}
